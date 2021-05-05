@@ -40,3 +40,19 @@ Working with CSS still looks like the magical unicorn in the forest to me. My pl
 **Thoughts:** Got my Redux store and a basic add task functionality working. Definitely need to practice Redux more! I had a big hiccup with my  `export default` line, because I included a `mapDispatchToProps` without a `mapStateToProps`. I then learned that I needed to include `null` for the first arugment slot. 
 
 **Link to work:** [Tasker](https://github.com/BeccaN/tasker)
+
+### Day 6: May 2, 2021
+
+**Today's Progress**: Completed the 'incomplete' vs 'complete' tasks... 
+
+**Thoughts:** Redux is hard! Got my combineReducer working so I now have incomplete and complete tasks. But now I am trying to implement the functionality of 'checking off' a task and I'm having difficulties. Feeling very excited on what I have learned so far!. 
+
+**Link to work:** [Tasker](https://github.com/BeccaN/tasker)
+
+### Day 7: May 5, 2021
+
+**Today's Progress**: Worked on styling D&D Character Manager
+
+**Thoughts:** Spent time looking up different CSS elements and trying my best to implement them so I could clean up an older project. I had a lot of difficulties with figuring out overflow and scrolling, but I think my next steps with CSS is to take a full course and learn all the basics. I am particularly proud of how I learned about grid and hover opacity effects today!
+
+**Link to work:** [D&DCharacterManager](https://github.com/BeccaN/DnD-Character-Manager)
